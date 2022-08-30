@@ -1,4 +1,4 @@
-# E-Commerce Back End
+# Text-Editor-PWA
   
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
